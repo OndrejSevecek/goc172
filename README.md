@@ -8,7 +8,7 @@ https://www.gopas.cz/windows-server-kerberos-and-authentication-troubleshooting_
 - Úvod do bezpečnostní a autentizační infrastruktury Windows a LSASS
 - Ukládání hesel, heší, přihlašování čipovou kartou, cache a Single-Sign-On (SSO)
 - Lokální vs. doménové účty, útoky na hesla a jejich šifrované komunikace přes síť
-- Princip počítačových účtů, účty SYSTEM, Network Service, Local Service, NT SERVICE, IISAppPool
+- Princip počítačových účtů, účty SYSTEM, Network Service, Local Service, NT SERVICE, IISAppPool, gMSA (group managed service accounts)
 - Ověřovací protokoly Basic, Kerberos, LM, NTLM, NTLMv2, Schannel a EAP/TLS a PKINIT
 - Optimalizace zabezpečení pro NTLM a Kerberos, implementace AES, omezení NTLM, likvidace RC4
 - Kerberos SPN, použití a definice pro DNS aliasy a servisní účty, managed service accounts
