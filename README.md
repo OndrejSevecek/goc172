@@ -14,6 +14,7 @@ https://www.gopas.cz/windows-server-kerberos-and-authentication-troubleshooting_
 - Kerberos SPN, použití a definice pro DNS aliasy a servisní účty, managed service accounts
 - Synchronizace času a požadavky na jeho přesnost v Kerberos, NTLMv2 a SChannel
 - Privilege Attribute Certificate (PAC), členství ve skupinách a jejich omezení, velikosti tiketů a access tokenu
+- Fungování RODC (Read-Only DC) z pohledu uložených hash hesel a vydávání Kerberos ticketů
 - Kerberos unconstrained delegation, constrained delegation, protocol transition
 - Podmínky pro Kerberos delegaci, řešení potíží delegace, S4U a S4U2Self
 - Použití a nastavení Kerberos ověřování a delegace pro služby jako je Remote Desktop Services a Terminal Services (RDP), SQL Server, SharePoint, System Center, Exchange, UAG, ADFS ad Web Application Proxy
