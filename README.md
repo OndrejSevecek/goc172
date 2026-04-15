@@ -23,7 +23,7 @@ https://www.gopas.cz/windows-server-kerberos-and-authentication-troubleshooting_
 - Auditování a řešení potíží a bezpečnostních incidentů
 - Příhlašování certifikáty na SSL/TLS služby - Schannel
 - Přihlašování čipovou kartou (smart card) - PKINIT a Windows Hello for Business (WHB) s AAD/EntraID
-- Windows Hello for Business (WHB) s Key Trust a za použití Cloud Trust
+- Windows Hello for Business (WHB) s Key Trust a za použití Cloud Trust s RODC účtem
 - Zásady použití a vydávání čipových karet (smart card)
 - Optimalizace ověřování v komplikovaných prostředí multiforest multidomain vztahů důvěry
 - Závislost ověřování na parametrech síťových linek
